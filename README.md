@@ -7,7 +7,7 @@ Using template to init UI, Jquery handle bussiness in client
 * Folk it
 * Import project into Eclipse through maven project.
 * Config Tomcat to run project. (Version >= 8).
-* All file HTML/CSS/JS about UI in /src/main/webapp/
-* Choose any .jsp in /src/main/webapp/pages and run it as tomcat server.
+* All file HTML/CSS/JS about UI in `/src/main/webapp/` folder
+* Choose any .jsp in `/src/main/webapp/pages` folder and run it as tomcat server.
 * Enjoy it!
 
